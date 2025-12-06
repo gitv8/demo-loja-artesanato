@@ -5,6 +5,9 @@ Loja virtual completa em HTML, CSS e JavaScript (simulação). Inclui vitrine, d
 
 Demonstração de uma interface de e-commerce construída com HTML, CSS, Bootstrap e JavaScript, totalmente funcional no front-end.
 
+🔍Link para visualização: 
+<a href="https://gitv8.github.io/demo-loja-artesanato/">🔗https://gitv8.github.io/demo-loja-artesanato/</a>
+
 O projeto apresenta:
 
 - Vitrine de produtos com navegação e carrossel
